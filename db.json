@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Vue.jsの学習",
+      "id": "82ebaa6d95b94771ac516570ab7bd1ac",
+      "completed": false
+    },
+    {
+      "title": "Reactの学習",
+      "id": "3099525ce0e74e688f0b580bde787b7a",
+      "completed": true
+    },
+    {
+      "title": "test",
+      "completed": false,
+      "id": "6d318297-0505-4c45-96d7-d251c37576b9"
+    }
+  ]
+}
